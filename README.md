@@ -29,7 +29,7 @@ Unlike mainstream approaches that rely on lossy AI inpainting (LAMA, STTN), this
 
 ## Download & Run
 
-1. Download the tiny, standalone `WatermarkStudioPRO.exe`.
+1. Download the tiny, standalone `https://github.com/pixelpangatech/GeminiWatermarkRemover/releases/download/v1.0/GeminiWatermarkRemover.exe`.
 2. Run it, browse for your video, and click **Start Processing**.
 
 ### Prerequisites
